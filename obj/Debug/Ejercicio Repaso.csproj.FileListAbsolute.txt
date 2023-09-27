@@ -1,0 +1,14 @@
+C:\Users\Puesto18\Desktop\DIW\Ejercicio Repaso\Ejercicio Repaso\bin\Debug\Ejercicio Repaso.exe.config
+C:\Users\Puesto18\Desktop\DIW\Ejercicio Repaso\Ejercicio Repaso\bin\Debug\Ejercicio Repaso.exe
+C:\Users\Puesto18\Desktop\DIW\Ejercicio Repaso\Ejercicio Repaso\bin\Debug\Ejercicio Repaso.pdb
+C:\Users\Puesto18\Desktop\DIW\Ejercicio Repaso\Ejercicio Repaso\obj\Debug\Ejercicio Repaso.csproj.AssemblyReference.cache
+C:\Users\Puesto18\Desktop\DIW\Ejercicio Repaso\Ejercicio Repaso\obj\Debug\Ejercicio Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Puesto18\Desktop\DIW\Ejercicio Repaso\Ejercicio Repaso\obj\Debug\Ejercicio Repaso.exe
+C:\Users\Puesto18\Desktop\DIW\Ejercicio Repaso\Ejercicio Repaso\obj\Debug\Ejercicio Repaso.pdb
+C:\Users\Puesto18\Desktop\C# (DIW)\Ejercicio Repaso\Ejercicio Repaso\bin\Debug\Ejercicio Repaso.exe.config
+C:\Users\Puesto18\Desktop\C# (DIW)\Ejercicio Repaso\Ejercicio Repaso\bin\Debug\Ejercicio Repaso.exe
+C:\Users\Puesto18\Desktop\C# (DIW)\Ejercicio Repaso\Ejercicio Repaso\bin\Debug\Ejercicio Repaso.pdb
+C:\Users\Puesto18\Desktop\C# (DIW)\Ejercicio Repaso\Ejercicio Repaso\obj\Debug\Ejercicio Repaso.csproj.AssemblyReference.cache
+C:\Users\Puesto18\Desktop\C# (DIW)\Ejercicio Repaso\Ejercicio Repaso\obj\Debug\Ejercicio Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Puesto18\Desktop\C# (DIW)\Ejercicio Repaso\Ejercicio Repaso\obj\Debug\Ejercicio Repaso.exe
+C:\Users\Puesto18\Desktop\C# (DIW)\Ejercicio Repaso\Ejercicio Repaso\obj\Debug\Ejercicio Repaso.pdb
